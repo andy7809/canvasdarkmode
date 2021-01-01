@@ -32,6 +32,11 @@
     {
       "css": ["canvas.css"],
       "js": ["canvas.js"],
+      "matches": ["https://canvas.*"]
+    },
+    {
+      "css": ["canvas.css"],
+      "js": ["canvas.js"],
        "matches": ["https://*.fsu.edu/*"]
     },
     {
