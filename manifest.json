@@ -27,7 +27,7 @@
     {
       "css": ["canvas.css"],
       "js": ["canvas.js"],
-      "matches": ["https://canvas.*"]
+      "matches": ["https://canvas.unl.edu/*"]
     },
     {
       "css": ["canvas.css"],
