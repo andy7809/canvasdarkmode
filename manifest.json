@@ -27,11 +27,6 @@
     {
       "css": ["canvas.css"],
       "js": ["canvas.js"],
-      "matches": ["https://*.instructure.com/*"]
-    },
-    {
-      "css": ["canvas.css"],
-      "js": ["canvas.js"],
       "matches": ["https://canvas.*"]
     },
     {
